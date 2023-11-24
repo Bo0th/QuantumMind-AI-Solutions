@@ -1,6 +1,6 @@
 import React from 'react'
 import './footer.css'
-import gpt3Logo from '../../assets/logo.svg'
+import gpt3Logo from '../../assets/QMAIS_logo2.svg'
 
 const Footer = () => {
   return (
@@ -9,35 +9,35 @@ const Footer = () => {
         <h1 className='gradient__text'>Do you want to step into the future before others?</h1>
       </div>
       <div className='gpt3__footer-button'>
-        <p>Request early access</p>
+        <p>Get access now</p>
       </div>
       <div className='gpt3__footer-links'>
         <div className='gpt3__footer-links_logo'>
           <img src={gpt3Logo} alt='logo' />
-          <p>Address goes here, address</p>
+          <p>1550 Silicon Valley, Drench Way, America</p>
         </div>
         <div className='gpt3__footer-links_div'>
           <h4>Links</h4>
-          <p>Overons</p>
+          <p>Blog</p>
           <p>Social Media</p>
-          <p>Counters</p>
+          <p>FAQs</p>
           <p>Contacts</p>
         </div>
         <div className='gpt3__footer-links_div'>
           <h4>Company</h4>
+          <p>Press Kit</p>
+          <p>Privacy Policy</p>
           <p>Terms & Conditions</p>
-          <p>Privacy  Policy</p>
-          <p>Contact</p>
         </div>
         <div className='gpt3__footer-links_div'>
           <h4>Get in touch</h4>
-          <p>Address, address</p>
-          <p>Telephone</p>
-          <p>Email</p>
+          <p>1550 Silicon Valley, Drench Way, America</p>
+          <p>555-164-223</p>
+          <p>QuantumMind@emailme.com</p>
         </div>
       </div>
       <div className='gpt3__footer-copyright'>
-        <p>© 2021 GPT-3. All rights reserved.</p>
+        <p>© 2023 QuantumMind AI Solutions. All rights reserved.</p>
       </div>
     </div>
   )

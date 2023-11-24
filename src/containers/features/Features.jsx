@@ -4,20 +4,20 @@ import { Feature } from '../../components'
 
 const featuresData = [
   {
-    title: 'Improving ends distrust instantly',
-    text: 'From they fine john he give of rich he. They age and draw mrs like. Improving end distrusts may instantly was household applauded.'
+    title: 'Healthcare',
+    text: 'Transforming patient care with predictive diagnostics, personalized treatment plans, and optimized resource allocation.'
   },
   {
-    title: 'Become the tended active',
-    text: 'Something something somthing darkside something something somthing complete. '
+    title: 'Finance',
+    text: 'Revolutionizing financial strategies with real-time risk analysis, fraud detection, and algorithmic trading solutions.'
   },
   {
-    title: 'Message or am Nothing',
-    text: 'Be the change that you wish to see in the world.'
+    title: 'Autonomous Systems',
+    text: 'Powering the future of autonomous vehicles, drones, and robotics with advanced perception and decision-making capabilities.'
   },
   {
-    title: 'Really boy law county',
-    text: "Laws regarding personal data protection ensure individuals' privacy rights, limiting unauthorized access and promoting responsible data handling by organizations"
+    title: 'Adaptive Learning Platforms',
+    text: "QuantumMind's Adaptive Learning Platforms utilize AI algorithms to understand each student's unique learning style, pace, and strengths. This enables the creation of personalized learning experiences, ensuring that students receive tailored content and support, ultimately fostering a more effective and engaging educational journey."
   },
 
 ]
@@ -26,8 +26,8 @@ const Features = () => {
   return (
     <div className='gpt3__features section__padding' id='features'>
       <div className='gpt3__features-heading'>
-        <h1 className='gradient__text'>The Future Is Now And You Just Need To Realize It. Step Into The Future Today & Make It Happen.</h1>
-        <p>Request early access to get started</p>
+        <h1 className='gradient__text'>QuantumMind AI Solutions: Transforming Industries, Empowering You</h1>
+        <p>Join to start using AI today</p>
       </div>
       <div className='gpt3__features-container'>
         {featuresData.map((item, index) => (

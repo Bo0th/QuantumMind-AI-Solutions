@@ -8,16 +8,16 @@ const Header = () => {
     <div className='gpt3__header section__padding' id='home'>
       <div className='gpt3__header-content'>
         <h1 className='gradient__text'>
-          Let's Build Something Amazing With GPT-3 OpenAI
+          Unleashing the Future of Artificial Intelligence
         </h1>
-        <p>Yet bad any for traveling assitance indulgence unpleasein. Not thoughts all exercise blessing. Indulgence way everythin joy alteration boisterous the attachment. Party we years to order allow asked of.</p>
+        <p>Welcome to QuantumMind AI Solutions, where innovation meets intelligence. We are at the forefront of revolutionizing the AI landscape, pushing the boundaries of what's possible to create a smarter, more connected world. Sign up now to start using our state of the art AI.</p>
         <div className='gpt3__header-content__input'>          
           <input type='email' placeholder='Your email address'/>
           <button type='button'>Let's get started</button>
         </div>
         <div className='gpt3__header-content__people'>
           <img src={people} alt='People'/>
-          <p>1600 people requested access a visit in last 24 hours</p>
+          <p>1,654 signed up in last 24 hours</p>
         </div>
         </div>
         <div className='gpt3__header-image'>

@@ -9,7 +9,7 @@
 .gpt3__features-heading {
     flex: 1;
     display: flex;
-    justify-content: flex-start;
+    justify-content: center;
     align-items: flex-start;
     flex-direction: column;
     text-align: left;
@@ -37,7 +37,7 @@
 .gpt3__features-container {
     flex: 1.5;
     display: flex;
-    justify-content: flex-start;
+    justify-content: center;
     align-items: center;
     flex-direction: column;
     padding: 0;

@@ -9,10 +9,10 @@ const Possibility = () => {
         <img src={possibilityImage} alt="possibility" />
       </div>
       <div className='gpt3__possibility-content'>
-        <h4>Request early access to get started</h4>
+        <h4>Join Us on the Journey</h4>
         <h1 className='gradient__text'>The possibilies are beyond our imagination</h1>
-        <p>Need to find something to add here related to tech and change the rest of the info on this page as it is complete garbage</p>
-        <h4>Request early access to get started</h4>
+        <p>Are you ready to be a part of the QuantumMind revolution? Explore our career opportunities, collaborate with us, or stay updated on our latest breakthroughs. Together, we're shaping a future where AI transcends boundaries.</p>
+        <h4>Sign up today to get started</h4>
       </div>
     </div>
   )
